@@ -1,0 +1,158 @@
+{
+   "icons":[
+      {
+         "name": "white symbols",
+		 "source": "00-white",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/00-white",
+		 "extension": "png",
+		 "count": 52
+      },
+	    {
+         "name": "white alpha",
+		 "source": "00-white-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/00-white-alpha",
+		 "extension": "png",
+		 "count": 58
+      },
+	  {
+         "name": "gray symbols",
+		 "source": "01-gray",
+         "sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/01-gray",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "gray alpha",
+		 "source": "01-gray-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/01-gray-alpha",
+		 "extension": "png",
+		 "count": 58
+      },
+	  {
+         "name": "blue-gray symbols",
+		 "source": "02-blue-gray",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/02-blue-gray",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "blue-gray alpha",
+		 "source": "02-blue-gray-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/02-blue-gray-alpha",
+		 "extension": "png",
+		 "count": 58
+      },
+	  {
+         "name": "indigo symbols",
+		 "source": "03-indigo",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/03-indigo",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "indigo alpha",
+		 "source": "03-indigo-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/03-indigo-alpha",
+		 "extension": "png",
+		 "count": 58
+      },	  
+	   {
+         "name": "purple symbols",
+		 "source": "04-purple",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/04-purple",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "purple alpha",
+		 "source": "04-purple-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/04-purple-alpha",
+		 "extension": "png",
+		 "count": 58
+	  },	  
+	   {
+         "name": "blue symbols",
+		 "source": "05-blue",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/05-blue",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "blue alpha",
+		 "source": "05-blue-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/05-blue-alpha",
+		 "extension": "png",
+		 "count": 58
+	  },	  
+	   {
+         "name": "green symbols",
+		 "source": "06-green",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/06-green",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "green alpha",
+		 "source": "06-green-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/06-green-alpha",
+		 "extension": "png",
+		 "count": 58
+	  },	  
+	   {
+         "name": "yellow symbols",
+		 "source": "07-yellow",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/07-yellow",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "yellow alpha",
+		 "source": "07-yellow-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/07-yellow-alpha",
+		 "extension": "png",
+		 "count": 58
+	  },	  
+	   {
+         "name": "orange symbols",
+		 "source": "08-orange",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/08-orange",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "orange alpha",
+		 "source": "08-orange-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/08-orange-alpha",
+		 "extension": "png",
+		 "count": 58
+	  },	  
+	   {
+         "name": "red symbols",
+		 "source": "09-red",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/09-red",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "red alpha",
+		 "source": "09-red-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/09-red-alpha",
+		 "extension": "png",
+		 "count": 58
+	  },	  
+	   {
+         "name": "pink symbols",
+		 "source": "10-pink",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/10-pink",
+		 "extension": "png",
+		 "count": 52
+      },
+	  {
+         "name": "pink alpha",
+		 "source": "10-pink-alpha",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/10-pink-alpha",
+		 "extension": "png",
+		 "count": 58
+	  }
+   ]
+}
