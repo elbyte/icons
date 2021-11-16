@@ -1,0 +1,90 @@
+{
+   "icons":[
+    	    {
+         "name": "01-orange",
+		 "source": "01-orange",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/01-orange",
+		 "extension": "png",
+		 "count": 114
+      },
+     	    {
+         "name": "03-yellow",
+		 "source": "03-yellow",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/03-yellow",
+		 "extension": "png",
+		 "count": 114
+      },
+
+     	    {
+         "name": "05-lime",
+		 "source": "05-lime",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/05-lime",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "07-green",
+		 "source": "07-green",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/07-green",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "09-green",
+		 "source": "09-green",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/09-green",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "11-cyan",
+		 "source": "11-cyan",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/11-cyan",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "13-blue",
+		 "source": "13-blue",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/13-blue",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "15-indigo",
+		 "source": "15-indigo",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/15-indigo",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "17-purple",
+		 "source": "17-purple",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/17-purple",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "19-magenta",
+		 "source": "19-magenta",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/19-magenta",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "21-pink",
+		 "source": "21-pink",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/21-pink",
+		 "extension": "png",
+		 "count": 114
+      },
+	       	    {
+         "name": "23-red",
+		 "source": "23-red",
+         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/23-red",
+		 "extension": "png",
+		 "count": 114
+      }
+	  
+   ]
+}
