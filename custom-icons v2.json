@@ -1,200 +1,199 @@
 {
-   "icons":[
-      {
-         "name":"1-white",
-         "source":"1-white",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/1-white",
-         "extension":"png",
-         "count":114
-      },
-	        {
-         "name":"2-gray",
-         "source":"2-gray",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/2-gray",
-         "extension":"png",
-         "count":114
-      },
-	        {
-         "name":"3-dark gray",
-         "source":"3-darkgray",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/E-darkgray",
-         "extension":"png",
-         "count":114
-      },
-	        {
-         "name":"4-indigo",
-         "source":"4-indigo",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/4-indigo",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"A-pink",
-         "source":"A-pink",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/A-pink",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"B-pink",
-         "source":"B-pink",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/B-pink",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"C-red",
-         "source":"C-red",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/C-red",
-         "extension":"png",
-         "count":114
-      },
-	        {
-         "name":"D-red",
-         "source":"D-red",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/D-red",
-         "extension":"png",
-         "count":114
-      }
-      {
-         "name":"E-orange",
-         "source":"E-orange",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/E-orange",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"F-orange",
-         "source":"F-orange",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/F-orange",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"G-yellow",
-         "source":"G-yellow",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/G-yellow",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"H-yellow",
-         "source":"H-yellow",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/H-yellow",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"I-lime",
-         "source":"I-lime",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/I-lime",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"J-lime",
-         "source":"J-lime",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/J-lime",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"K-green",
-         "source":"K-green",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/K-green",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"L-green",
-         "source":"L-green",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/L-green",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"M-teal",
-         "source":"M-teal",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/M-teal",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"N-teal",
-         "source":"N-teal",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/N-teal",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"O-cyan",
-         "source":"O-cyan",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/O-cyan",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"P-cyan",
-         "source":"P-cyan",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/P-cyan",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"Q-blue",
-         "source":"Q-blue",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/Q-blue",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"R-blue",
-         "source":"R-blue",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/R-blue",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"S-indigo",
-         "source":"S-indigo",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/S-indigo",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"T-indigo",
-         "source":"T-indigo",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/T-indigo",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"U-purple",
-         "source":"U-purple",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/U-purple",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"V-purple",
-         "source":"V-purple",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/V-purple",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"W-magenta",
-         "source":"W-magenta",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/W-magenta",
-         "extension":"png",
-         "count":114
-      },
-      {
-         "name":"X-magenta",
-         "source":"X-magenta",
-         "sourceUrl":"https://raw.githubusercontent.com/elbyte/icons/main/X-magenta",
-         "extension":"png",
-         "count":114
-      }
-   ]
+	"icons": [{
+			"name": "1-white",
+			"source": "1-white",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/1-white",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "2-gray",
+			"source": "2-gray",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/2-gray",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "3-dark gray",
+			"source": "3-darkgray",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/3-darkgray",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "4-indigo",
+			"source": "4-indigo",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/4-indigo",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "A-pink",
+			"source": "A-pink",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/A-pink",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "B-pink",
+			"source": "B-pink",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/B-pink",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "C-red",
+			"source": "C-red",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/C-red",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "D-red",
+			"source": "D-red",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/D-red",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "E-orange",
+			"source": "E-orange",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/E-orange",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "F-orange",
+			"source": "F-orange",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/F-orange",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "G-yellow",
+			"source": "G-yellow",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/G-yellow",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "H-yellow",
+			"source": "H-yellow",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/H-yellow",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "I-lime",
+			"source": "I-lime",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/I-lime",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "J-lime",
+			"source": "J-lime",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/J-lime",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "K-green",
+			"source": "K-green",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/K-green",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "L-green",
+			"source": "L-green",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/L-green",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "M-teal",
+			"source": "M-teal",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/M-teal",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "N-teal",
+			"source": "N-teal",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/N-teal",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "O-cyan",
+			"source": "O-cyan",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/O-cyan",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "P-cyan",
+			"source": "P-cyan",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/P-cyan",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "Q-blue",
+			"source": "Q-blue",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/Q-blue",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "R-blue",
+			"source": "R-blue",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/R-blue",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "S-indigo",
+			"source": "S-indigo",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/S-indigo",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "T-indigo",
+			"source": "T-indigo",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/T-indigo",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "U-purple",
+			"source": "U-purple",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/U-purple",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "V-purple",
+			"source": "V-purple",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/V-purple",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "W-magenta",
+			"source": "W-magenta",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/W-magenta",
+			"extension": "png",
+			"count": 114
+		},
+		{
+			"name": "X-magenta",
+			"source": "X-magenta",
+			"sourceUrl": "https://raw.githubusercontent.com/elbyte/icons/main/X-magenta",
+			"extension": "png",
+			"count": 114
+		}
+	]
 }
